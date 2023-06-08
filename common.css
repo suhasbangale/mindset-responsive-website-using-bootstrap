@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+
+
+
+body {
+    background-color: #f6f7ff;
+    font-family: 'Rubik', sans-serif;
+}
+
+.login-button {
+    background-color: #D5E0EC;
+    color: #14213d;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.login-button:hover {
+    border: 2px solid #14213d;
+    background-color: #D5E0EC;
+    color: #14213d;
+}
+
+.web-brand-name {
+    font-size: 24px;
+    font-weight: 600;
+    color: #14213d;
+}
+
+.navbar-item {
+    font-size: 17px;
+    font-weight: 400;
+    color: #64748b;
+}
+
+.current-page {
+    font-weight: 400;
+    color: #14213d;
+}
+
+a {
+    text-decoration: none;
+}
+
+.insta-link-button {
+    background-color: #D5E0EC;
+    color: #14213d;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: none;
+    border-radius: 25px;
+}
+
+.insta-link-button:hover {
+    background-color: #D5E0EC;
+    color: #14213d;
+    opacity: 0.85; 
+}
+
+.main-slogan {
+    color: #14213d;
+    font-weight: 500;
+}
+
+.secondary-text {
+    color: #64748B;
+}
+
+.get-started-button {
+    background-color: #14213d;
+    color: #f6f7ff;
+}
+
+.get-started-button:hover {
+    background-color: #64748B;
+    color: #f6f7ff;
+}
+
+.github-button {
+    color: #14213d;
+    border: 2px solid #14213d;
+}
+
+.github-button:hover {
+    color: #64748B;
+    border: 2px solid #64748B;
+}
+
+.features-div {
+    background-color: #E8EEF5;
+    border-radius: 6px;
+}
+
+.features-card {
+    border: none;
+    background-color: #f6f7ff;
+}
+
+.github-link {
+    color: #14213d;
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.github-link:hover {
+    opacity: 0.85;
+}
+
+.pricing-card-free {
+    background-color: #f6f7ff;
+    border: 2px solid #D5E0EC;
+}
+
+.pricing-card-pro {
+    border: none;
+    background-color: #f6f7ff;
+    border: 2px solid #14213d;
+}
+
+
+
+.get-started-button-free {
+    background-color: #D5E0EC;
+    color: #14213d;
+    border: none;
+}
+
+.get-started-button-free:hover {
+    background-color: #D5E0EC;
+    color: #14213d;
+    opacity: 0.85; 
+}
+
+.back-button {
+    padding: 5px 25px;
+    color: #14213d;
+    border: none;
+    border-radius: 6px;
+}
+.back-button:hover {
+    background-color: #D5E0EC;
+    color: #14213d;
+}
+
+.login-card {
+    background-color: #f6f7ff;
+    border: none;
+}
